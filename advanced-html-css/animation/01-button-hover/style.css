@@ -17,3 +17,9 @@ button {
   padding: 16px 24px;
   text-align: center;
 }
+
+button:hover{
+transition:scaleX(1.3);
+transition-timing-function:4s;
+
+}
